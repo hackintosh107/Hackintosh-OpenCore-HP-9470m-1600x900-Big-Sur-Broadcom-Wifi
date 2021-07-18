@@ -1,6 +1,10 @@
 # Hackintosh-OpenCore-HP-9470m-1600x900-Broadcom-Wifi
 OpenCore EFI bootloader for HP 9470m with 1600x900 resolution and Broadcom Wi-Fi
 
+<p align="center">
+  <img width="400" height="300" src="/img/HP_9470m.png">
+</p>
+
 # Specifications:
 * CPU: Intel Core i5-3437U
 * GPU: Intel HD Graphics 4000
@@ -50,3 +54,17 @@ iMac16,1
  
 # Note:
 Don't use this EFI bootloader for 1366x768 resolution
+
+# Screenshots:
+<p align="center" style="margin:20px">
+  <img align="center" src="/img/BigSur_Control_Center.png">
+</p>
+<p align="center" style="margin:20px">
+  <img align="center" src="/img/BigSur_Information.png">
+</p>
+<p align="center" style="margin:20px">
+  <img align="center" src="/img/BigSur_Settings.png">
+</p>
+<p align="center" style="margin:20px">
+  <img align="center" src="/img/BigSur_Trackpad.png">
+</p>
